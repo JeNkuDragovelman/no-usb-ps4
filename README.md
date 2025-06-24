@@ -24,6 +24,7 @@ AGPL-3.0-or-later (see src/COPYING). This repo belongs to the group
 `anonymous`. We refer to anonymous contributors as "anonymous" as well.
 
 # CREDITS:
+- Jenku DragoVelman
 - Jhon https://github.com/janisslsm
 - SiSTR0 https://github.com/SiSTR0
 - CTN https://github.com/ctn123
