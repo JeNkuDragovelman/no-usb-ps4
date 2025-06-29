@@ -1,34 +1,33 @@
-# PSFree version 1.5.0
 
-Lapse Kex ported to 9.00 - Still WIP
+# PSFree versión 1.5.0
 
-Very fast and Stable 90%
+Lapse Kex portado a la versión 9.00 - Aún en desarrollo
 
-- Some performance Tweaks add
-- Need Add sysveri Patch
-  
-PR are welcome 
+Muy rápido y estable (90%)
 
-PSFree is a collection of exploits for the PS4 console. The main focus of the 
-repo is for the PS4 but we try to make things portable to PS5.
+- Se añaden algunos ajustes de rendimiento
+- Se necesita el parche sysveri
+
+Se agradecen las relaciones públicas
+
+PSFree es una colección de exploits para la consola PS4. El repositorio se centra principalmente en la PS4, pero intentamos que sea portable a la PS5.
 
 * Exploits
-  * PSFree: src/psfree.js
-  * Lapse (kernel): src/lapse.js
+* PSFree: src/psfree.js
+* Lapse (kernel): src/lapse.js
 
-Donation (Monero/XMR):
+Donación (Monero/XMR):
 86Fk3X9AE94EGKidzRbvyiVgGNYD3qZnuKNq1ZbsomFWXHYm6TtAgz9GNGitPWadkS3Wr9uXoT29U1SfdMtJ7QNKQpW1CVS
 
-# COPYRIGHT AND AUTHORS:
-AGPL-3.0-or-later (see src/COPYING). This repo belongs to the group
-`anonymous`. We refer to anonymous contributors as "anonymous" as well.
+# COPYRIGHT Y AUTORES:
+AGPL-3.0 o posterior (ver src/COPYING). Este repositorio pertenece al grupo "anonymous". También nos referimos a los colaboradores anónimos como "anonymous".
 
-# CREDITS:
+CRÉDITOS:
 - Jenku DragoVelman https://github.com/JeNkuDragovelman
 - Jhon https://github.com/janisslsm
 - SiSTR0 https://github.com/SiSTR0
 - CTN https://github.com/ctn123
 - Al-Azif https://github.com/al-azif
-- abc for PSFree webkit exploit & Lapse kernel Exploit
+- abc por el exploit de webkit de PSFree y el exploit de kernel Lapse
 - Chendochap https://github.com/ChendoChap
-- kameleonre.. for porting and chaining psfree + lapse on ps4 9.00 :P
+- kameleonre... por portar y encadenar PSFree + Lapse en PS4 9.00 :P
